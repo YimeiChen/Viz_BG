@@ -8,4 +8,4 @@ Liz (Yimei) Chen, Mathew Shaw
 
 ## Results
 
-Viewable: 
+Viewable: https://yimeichen.github.io/Viz_BG/
